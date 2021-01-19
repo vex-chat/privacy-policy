@@ -21,7 +21,7 @@ The information that may be collected when you use this service includes:
 - Encrypted messages and files you send within the service
 
 The messages and files are encrypted by you and decrypted by the intended recipient.
-**We do not have access to your decryption keys**, and therefore **can not read or decrypt any** of your messages or files sent to other users. These keys are generated on your device and never leave your device.
+**We do not have access to your decryption keys**, and therefore **can not read or decrypt any of your messages or files**. These keys are generated on your device and never leave your device.
 
 Messages sent are **deleted** from the server after they are fetched by the intended recipient.
 
