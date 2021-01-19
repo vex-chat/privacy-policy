@@ -1,7 +1,5 @@
 # Privacy Policy
 
-## Last Updated January 16,  2021
-
 **In short**: We collect as little information as possible from you, and we do *not* share or sell your information with any other company or entity.
 
 ### Why You Should Care
