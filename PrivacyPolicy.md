@@ -43,7 +43,7 @@ Like any other company, we will comply with court ordered legal requests for inf
 
 ### Updates
 
-If we update this security policy, we will provide notice to you by way of an in-app notification or message on our website (https://vex.chat) in the footer of the web page, stating that the privacy policy was updated. The message on the footer will remain there for at least 30 days.
+If we update this security policy, we will provide notice to you by way of an in-app notification and keep a log on this page (https://vex.chat/privacy-policy) of the change history. The privacy policy will be kept in a [public git repository](https://github.com/vex-chat/privacy-policy), so every change will be viewable in a diff-like format.
 
 ### Hat Tips
 
